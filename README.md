@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Gulshan Lowanshi</h1>
-<h3 align="center">I am Cumputer Science Student</h3>
+<h3 align="center">I am Computer Science Student</h3>
 <img align="rigth"  alt="coding" width="400" src="img/image.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshan1209&label=Profile%20views&color=0e75b6&style=flat" alt="gulshan1209" /> </p>
 
