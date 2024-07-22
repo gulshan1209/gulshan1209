@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="rigth"  alt="coding" width="400" src="img/image.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshan1209&label=Profile%20views&color=0e75b6&style=flat" alt="gulshan1209" /> </p>
 
-- 🌱 I’m currently learning **JAVA , HTML**
+- 🌱 I’m currently learning **JAVA+DSA , Full Stack**
 
 - 📫 How to reach me **gulshanlowamshi444@gmail.com**
 
